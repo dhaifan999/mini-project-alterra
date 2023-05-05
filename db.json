@@ -4,60 +4,70 @@
         "id": 1,
         "name": "Bacterial Spot",
         "description": "Penyakit bacterial spot adalah penyakit bercak daun yang diakibatkan oleh bakteri Xanthomonas spp. dan sangat merugikan karena penyakit tersebut menyerang tanaman tomat mulai dari fase bibit hingga dewasa, bahkan penyakit bacterial spot tidak hanya menyerang daun akan tetapi juga menginfeksi akar, buah dan batang.",
+        "title": "Cara Mengatasi",
         "overcome": "Jika penyakit terjadi pada awal musim, pertimbangkan untuk menghancurkan saja seluruh tanaman. Merendam benih selama satu menit dalam 1,3% natrium hipoklorit atau dalam air panas (50° Celcius) selama 25 menit dapat mengurangi timbulnya penyakit."
       },
       {
         "id": 2,
         "name": "Early Blight",
         "description": "Penyakit bercak daun alternaria atau penyakit bercak kering disebabkan oleh cendawan Alternaria sp. Patogen ditularkan melalui udara. Gejala awal timbulnya bercak kecil di daun-daun bagian bawah, kemudian berkembang dengan diameter mencapai ± 15 mm. Warna bercak coklat dengan lingkaran-lingkaran sepusat.",
+        "title": "Cara Mengatasi",
         "overcome": "Dapat menggunakan batu kapur alga, campuran susu bebas lemak dan air (1 : 1) atau tepung batu untuk mengobati tanaman yang terinfeksi. Larutan 3 sendok teh soda bikarbonat + emulsi ikan dalam 4 liter air juga membantu."
       },
       {
         "id": 3,
         "name": "Late Blight",
         "description": "Late blight atau penyakit busuk daun disebabkan oleh jamur Phytophthora infestans. Biasanya menyerang pada tanaman tomat di dataran tinggi. Gejala serangan pada daun terjadi bercak coklat hingga hitam. Awalnya menyerang ujung dan sisi daun, kemudian meluas ke seluruh permukaan daun hingga ke tangkai daun.",
+        "title": "Cara Mengatasi",
         "overcome": "Tanaman yang terserang penyakit ini harus segera dicabut dan dibakar, jangan di kubur. Gunakan varietas unggul dan bebas jamur. Gunakan semprotan fungisida berbahan dasar mandipropamid, klorotalonil, fluazinam, atau mankozeb untuk melawan penyakit busuk daun."
       },
       {
         "id": 4,
         "name": "Leaf Mold",
         "description": "Leaf Mold merupakan penyakit pada tanaman tomat, yang biasanya muncul pada tomat yang dibudidayakan dalam rumah kaca atau lingkungan yang lembab. Jamur Cladosporium fulvum menjadi penyebab muncul nya penyakit ini, dan dapat menyebabkan turunnya kualitas dan hasil pertanian tomat.",
+        "title": "Cara Mengatasi",
         "overcome": "Disarankan melakukan perawatan benih dengan air panas (25 menit) pada 122° Fahrenheit atau 50° Celcius) untuk menghindari patogen pada biji. Jamur Acremonium strictum, Dicyma pulvinata, Trichoderma harzianum atau T. viride dan Trichothecium roseum bersifat antagonis terhadap M. fulva dan dapat digunakan untuk mengurangi penyebarannya."
       },
       {
         "id": 5,
         "name": "Septoria Leaf Spot",
         "description": "Penyakit bercak daun septoria merupakan penyakit yang disebabkan oleh serangan jamur Septoria Lycopersici Speg dimana penyakit ini menyerang dan merusak daun tanaman tomat. Gejala penyakit diawali dengan adanya bercak kecil berupa lepuhan berair, kemudian berkembang menjadi bercak melingkar.",
+        "title": "Cara Mengatasi",
         "overcome": "Fungisida berbahan dasar tembaga, seperti campuran Bordeaux, tembaga hidroksida, tembaga sulfat, atau tembaga oksiklorida sulfat dapat membantu mengendalikan patogen. Terapkan pada selang waktu 7 hingga 10 hari sepanjang akhir musim."
       },
       {
         "id": 6,
         "name": "Spider Mites",
         "description": "Spider mite disebabkan oleh tungau laba-laba dari genus Tetranychus, terutama T. urticar dan T. cinnabarinus yang merupakan hama kecil yang menempel di bagian bawah daun tanaman untuk mengisap nutrisi dari daun hingga membuat daun kering dan mati.",
+        "title": "Cara Mengatasi",
         "overcome": "Dalam kasus serangan yang ringan, cukup bersihkan tungau dan buang daun yang terserang. Siapkan olahan bahan yang terdiri dari biji rapa, selasih, kedelai dan minyak nimba untuk menyemprot daun secara menyeluruh dan mengurangi populasi T. urticae."
       },
       {
         "id": 7,
         "name": "Target Spot",
         "description": "Target spot atau dikenal sebagai hawar dini adalah penyakit jamur yang sebabkan oleh Corynespora cassiicola yang merupakan organisme pengganggu tanaman (OPT) dari kelompok penyakit dan masuk dalam golongan jamur yang dalam pengendaliannya juga memerlukan keterpaduan.",
+        "title": "Cara Mengatasi",
         "overcome": "Tanaman yang terserang penyakit ini harus segera dicabut dan dibakar, jangan di kubur. Gunakan varietas unggul dan bebas jamur. Gunakan semprotan fungisida berbahan dasar mandipropamid, klorotalonil, fluazinam, atau mankozeb untuk melawan penyakit busuk daun."
       },
       {
         "id": 8,
         "name": "Tomato Yellow Leaf Curl Virus",
         "description": "Penyakit yellow leaf curl virus (TYLCV) atau penyakit virus kuning adalah jenis penyakit pada tomat yang disebabkan oleh Geminivirus. Penyakit ini tidak hanya ditularkan melalui biji akan tetapi juga dapat menular dari hasil stek dan serangga vektor kutu kebul.",
+        "title": "Cara Mengatasi",
         "overcome": "Insektisida dari keluarga piretroid yang diterapkan pada tanah basah atau penyemprotan selama tahap pembibitan dapat mengurangi populasi lalat putih. Namun, penggunaannya yang luas dapat mendorong perkembangan resistensi pada populasi kutu kebul."
       },
       {
         "id": 9,
         "name": "Tomato Mosaic Virus",
         "description": "Merupakan penyakit mosaic pada tanaman tomat yang disebabkan oleh Tobacco mosaic virus (TMV). Tanaman tomat dengan gejala mosaik memperlihatkan gejala pada daun-daun muda berubah menjadi warna belang kuning hijau, keriting serta berkerut, tanaman kerdil, buah belang dan berwarna kuning.",
+        "title": "Cara Mengatasi",
         "overcome": "Pemanasan kering terhadap biji pada suhu 70° Celcius selama 4 hari atau pada suhu 82-85° Celcius selama 24 jam akan membantu membersihkan virusnya. Atau, biji dapat direndam selama 15 menit dalam larutan 100 g/l trisodium fosfat, dibilas dengan air kemudian dikeringkan."
       },
       {
         "id": 10,
         "name": "Powdery Mildew",
         "description": "Powdery Mildew merupakan penyakit tanaman umum dimana memiliki sebaran yang luas. Penyakit ini dapat menyerang tanaman sayuran, tanaman hias, tanaman buah-buahan, dan tanaman lainnya. Powdery Mildew pada tanaman tomat disebabkan oleh cendawan Oidium neolycopersici.",
+        "title": "Cara Mengatasi",
         "overcome": "Untuk perkebunan, larutan susu tampaknya bekerja sebagai fungisida alami. Aplikasikan larutan ini pada daun setiap hari kedua. Jenis embun tepung berbeda tergantung pada inangnya, larutan ini mungkin tidak efektif untuk semua jenis."
       }
     ]
